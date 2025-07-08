@@ -42,4 +42,4 @@ root.mainloop()
 ```
 
 ## License
-MIT (LICENSE)[LICENSE]
+MIT [LICENSE](LICENSE)
