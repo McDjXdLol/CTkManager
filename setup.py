@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     
 setup(
     name='CTkManager',
-    version='1.0',
+    version='1.0.1',
     author='McDjXdLol',
     author_email='mcdjxdlol@gmail.com',
     description='CTkManager is a helper library designed to streamline CustomTkinter GUI development. It integrates PIL for image support and uses Enum to keep configuration clean and easy.',
