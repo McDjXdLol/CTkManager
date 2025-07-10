@@ -25,7 +25,7 @@ It uses `Pillow` (PIL) for image handling and `Enum` for easy theme and color sc
 ## Installation
 
 ```bash
-pip install customtkinter pillow
+pip install CTkManager
 ```
 ## Example
 ```python
